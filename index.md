@@ -12,4 +12,18 @@
 > 下午2点多去了海月把狗子领了回来
 
 ### 2.13
+12.6kg
+
+### 2.14
+喂了驱虫药
+
+
+### 2.26 荷兰花卉小镇旁边遛狗
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220226-1.jpg" width = "500" height = "500" alt="" align=center />
+
+### 2.26 下午
+13.8kg
+
+### 3.11
+喂了驱虫药
 
