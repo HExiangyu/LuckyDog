@@ -1,1 +1,1 @@
-它的名字叫lucky。。。
+lucky,它的名字叫lucky
