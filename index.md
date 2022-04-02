@@ -3,7 +3,7 @@
 
 ### 2.8之前
 > 饿的半死的狗狗
-<img src="/image/20220208-1.jpg" width = "500" height = "500" alt="" align=center />
+<img src="https://github.com/HExiangyu/LuckyDog/blob/main/image/20220208-1.jpg" width = "500" height = "500" alt="" align=center />
 
 ### 2.8
 > 想要领养它
