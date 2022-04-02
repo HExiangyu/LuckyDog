@@ -3,7 +3,7 @@
 ### 2.8之前
 /image/20220208-1.jpg
 
-![avatar](/image/20220208-1.jpg =100x100)
+![avatar](/image/20220208-1.jpg)
 
 ### 2.8
 
