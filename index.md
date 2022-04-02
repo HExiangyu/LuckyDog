@@ -5,6 +5,8 @@
 
 ![avatar](/image/20220208-1.jpg)
 
+<img src="" width = "200" height = "300" alt="" align=center />
+
 ### 2.8
 
 ### 2.12
