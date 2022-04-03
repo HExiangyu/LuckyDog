@@ -40,6 +40,7 @@
 
 ## 2022.03.06
 > 发现荔香公园旁边有一个大草坪十分适合遛狗
+
 <img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220306-1.jpg" width = "500" height = "500" alt="" align=center />
 
 
@@ -57,6 +58,8 @@
 ## 2022.04.03
 > 带着狗子去了塘朗山徒步，因为疫情管控比较严格，塘朗山入口的龙珠门的正门不让进，深圳疾控中心的小道入口也不让进，只能去了深燃大厦的梅林郊野径入口，咨询了保安是可以进入的，
 > 牵着狗子从上梅林翻过塘朗山到达‘大脑壳’，最后从民乐地铁站口下山，四个多小时的时间，lucky体力太棒了。
+
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220403-1.jpg" width = "500" height = "500" alt="" align=center />
 
 
 
