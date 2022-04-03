@@ -9,6 +9,8 @@
 ## 2.8
 > 想要领养它
 
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220208-2.jpg" width = "500" height = "500" alt="" align=center />
+
 ## 2.12 
 > 下午2点多去了海月把狗子领了回来
 
@@ -19,7 +21,9 @@
 > 喂了驱虫药
 
 
-## 2.26 荷兰花卉小镇旁边遛狗
+## 2.26 
+> 荷兰花卉小镇旁边遛狗
+
 <img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220226-1.jpg" width = "500" height = "500" alt="" align=center />
 
 ## 2.26 下午
