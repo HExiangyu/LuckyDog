@@ -14,6 +14,8 @@
 ## 2.12 
 > 下午2点多去了海月把狗子领了回来
 
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220212-1.png" width = "500" height = "700" alt="" align=center />
+
 ## 2.13
 > 12.6kg
 
