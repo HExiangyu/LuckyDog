@@ -24,6 +24,8 @@
 ## 2.14
 > 喂了驱虫药
 
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220214-1.jpg" width = "500" height = "700" alt="" align=center />
+
 
 ## 2.26 
 > 荷兰花卉小镇旁边遛狗
