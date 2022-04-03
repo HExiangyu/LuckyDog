@@ -30,7 +30,7 @@
 ## 2022.02.26 
 > 荷兰花卉小镇旁边遛狗
 
-<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220226-1.jpg" width = "400" height = "700" alt="" align=center />
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220226-1.jpg" width = "450" height = "600" alt="" align=center />
 
 > 13.8kg，带它去洗了个澡顺便称了下体重。
 
