@@ -24,7 +24,7 @@
 ## 2022.02.14
 > 喂了驱虫药,晚上睡觉稍微好点了，不需要陪着了，放在书房睡也能稍微安静点不会嘤嘤叫，但是人一旦走动，它就会惊醒马上跟着，还是缺乏安全感
 
-<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220214-1.jpg" width = "500" height = "700" alt="" align=center />
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220214-1.jpg" width = "500" height = "800" alt="" align=center />
 
 
 ## 2022.02.26 
