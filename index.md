@@ -32,8 +32,13 @@
 
 <img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220226-1.jpg" width = "500" height = "500" alt="" align=center />
 
-## 2.26 下午
-> 13.8kg
+> 13.8kg，带它去洗了个澡顺便称了下体重。
+
+
+## 2.27
+> 去医院打了个第一针防止传染病的疫苗，在宠物医院给lucky建了个档，出生时间为2021年7月24日的金色边牧。
+
+
 
 ## 3.11
 > 喂了驱虫药
