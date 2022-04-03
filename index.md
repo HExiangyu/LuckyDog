@@ -3,6 +3,7 @@
 
 ### 2.8之前
 > 饿的半死的狗狗
+
 <img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220208-1.jpg" width = "500" height = "500" alt="" align=center />
 
 ### 2.8
