@@ -41,7 +41,7 @@
 ## 2022.03.06
 > 发现荔香公园旁边有一个大草坪十分适合遛狗
 
-<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220306-1.jpg" width = "500" height = "700" alt="" align=center />
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220306-1.jpg" width = "400" height = "700" alt="" align=center />
 
 
 ## 2022.03.11
