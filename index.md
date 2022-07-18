@@ -64,8 +64,18 @@
 
 <img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220403-1.jpg" width = "400" height = "700" alt="" align=center />
 
+
+## 2022.04.05
+> 带着lucky不间断的去南头古城，荔香公园玩耍，lucky很喜欢,还去了前海海边公园（之前可以带狗狗进去，现在公园已经完全建好了，不让带狗狗进去），那里有个大草坪，特别棒。
+
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220405-1.jpg" width = "400" height = "700" alt="" align=center />
+
+
+
 ## 2022.04.09
-> 吃了驱虫药
+> 吃了驱虫药,带着lucky走路去了万象天地。
+
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220409-1.jpg" width = "400" height = "700" alt="" align=center />
 
 
 ## 2022.04.13
@@ -74,6 +84,8 @@
 
 ## 2022.04.16
 > 带着lucky去了银湖山徒步，从凤岗花园入口上去，雅宝地铁站附近下来，发现狗狗的体力是真的棒，全程领路。
+
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220416-1.jpg" width = "400" height = "700" alt="" align=center />
 
 
 ## 2022.04.17
@@ -87,9 +99,13 @@
 ## 2022.04.23
 > 打了狂犬疫苗
 
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220423-1.jpg" width = "400" height = "700" alt="" align=center />
+
 
 ## 2022.05.02
-> 吃了驱虫药
+> 大早上出门，lucky和一只杜宾狭路相逢，叫了好几下，为了拦住不让它叫，用腿挡了下，一口咬在我的腿上，去了市六医院打狂犬疫苗。 中午给lucky吃了驱虫药,带着lucky去了宝安实验学校旁边的双界河，lucky学会了游泳，果然狗狗天生就会游泳。
+
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220502-1.jpg" width = "400" height = "700" alt="" align=center />
 
 
 ## 2022.05.20
@@ -97,37 +113,69 @@
 
 
 ## 2022.05.21
-> 带着lucky去了塘朗山徒步，这次是深燃大厦的梅林郊野径入口也不让狗狗进了，于是乎从边上偷偷的带着狗狗爬了上去。
+> 带着lucky去了塘朗山徒步，这次是深燃大厦的梅林郊野径入口也不让狗狗进了，于是乎从边上偷偷的带着狗狗爬了上去。下山的时候路过足球场，lucky一直盯着足球场看，看来是想上场，lucky喜欢踢球也喜欢玩球，扔出去的球都能接得住。
+
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220521-1.jpg" width = "400" height = "700" alt="" align=center />
+
 
 
 ## 2022.05.25
 > 吃了驱虫药
 
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220525-1.jpg" width = "400" height = "700" alt="" align=center />
+
 
 ## 2022.06.03
 > 带着lucky去了老虎涧徒步
+
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220603-1.jpg" width = "400" height = "700" alt="" align=center />
+
+
+## 2022.06.05
+> lucky在南头古城交了新朋友
+
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220605-1.jpg" width = "700" height = "400" alt="" align=center />
+
+
 
 
 ## 2022.06.15
 >  晚上，lucky的呕吐和干咳现象变严重，原来只是偶尔，这次是干咳呕吐到不吃狗粮了，吐出来的白色泡沫和它吃下去的狗粮。以为是狗粮的问题，急忙去了买了新狗粮和益生菌。
 
 
+
 ## 2022.06.16
 > 早上lucky还是不见好转，上午去了宠物医院拍片加抽血，诊断是支气管炎，炎症非常严重，打了抗生素，开了一周的消炎药，lucky基本恢复正常，花费1700元左右。
+
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220616-1.jpg" width = "400" height = "700" alt="" align=center />
+
 
 
 ## 2022.06.18
 > 开始给狗子换上了比利玛格幼犬三文鱼狗粮。
 
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220618-1.jpg" width = "400" height = "700" alt="" align=center />
+
+
 
 ## 2022.06.24
 > 吃了驱虫药
+
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220624-1.jpg" width = "400" height = "700" alt="" align=center />
+
 
 
 ## 2022.07.09
 > lucky又开始干呕咳嗽，应该是支气管炎还没好，有点感冒，买了果根素吃了一周，现在看起来已经恢复，准备再吃上两瓶果根素备用。
 
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220709-1.jpg" width = "400" height = "700" alt="" align=center />
 
+
+
+## 2022.07.17
+> 称了下lucky的体重，31.2斤
+
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220717-1.jpg" width = "400" height = "700" alt="" align=center />
 
 
 
