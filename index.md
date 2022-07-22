@@ -14,7 +14,7 @@
 ## 2022.02.12 
 > 下午2点多去了海月把狗子领了回来
 
-<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220212-1.png" width = "400" height = "600" alt="" align=center />
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220212-1.png" width = "400" height = "550" alt="" align=center />
 
 ## 2022.02.13
 > 12.6kg,饿的太瘦了，去医院做了个体检没发现什么问题，当天在家里睡觉必须要挨着主人睡，否则就会嘤嘤叫，应该是没有安全感
