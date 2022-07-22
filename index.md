@@ -14,7 +14,7 @@
 ## 2022.02.12 
 > 下午2点多去了海月把狗子领了回来
 
-<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220212-1.png" width = "400" height = "700" alt="" align=center />
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220212-1.png" width = "400" height = "600" alt="" align=center />
 
 ## 2022.02.13
 > 12.6kg,饿的太瘦了，去医院做了个体检没发现什么问题，当天在家里睡觉必须要挨着主人睡，否则就会嘤嘤叫，应该是没有安全感
@@ -24,7 +24,7 @@
 ## 2022.02.14
 > 喂了驱虫药,晚上睡觉稍微好点了，不需要陪着了，放在书房睡也能稍微安静点不会嘤嘤叫，但是人一旦走动，它就会惊醒马上跟着，还是缺乏安全感
 
-<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220214-1.jpg" width = "400" height = "800" alt="" align=center />
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220214-1.jpg" width = "410" height = "800" alt="" align=center />
 
 
 ## 2022.02.26 
@@ -54,7 +54,7 @@
 ## 2022.03.30
 > 深南大道边上遛狗给lucky拍的，越来越好看了
 
-<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220330-1.png" width = "400" height = "700" alt="" align=center />
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220330-1.png" width = "420" height = "700" alt="" align=center />
 
 
 
