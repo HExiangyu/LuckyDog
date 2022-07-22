@@ -145,7 +145,7 @@
 
 
 ## 2022.06.16
-> 早上lucky还是不见好转，上午去了宠物医院拍片加抽血，诊断是支气管炎，炎症非常严重，打了抗生素，开了一周的消炎药，lucky基本恢复正常，花费1700元左右。
+> 早上lucky还是不见好转，上午去了宠物医院拍片加抽血。诊断是支气管炎，炎症非常严重，打了抗生素，开了一周的消炎药，lucky基本恢复正常，花费1700元左右。
 
 <img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20220616-1.jpg" width = "400" height = "700" alt="" align=center />
 
