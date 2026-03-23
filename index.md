@@ -193,6 +193,13 @@
 
 
 
+## 2025.05.02
+> lucky在2025-04-19号做了绝育手术，绝育手术后第一次出来玩耍，体重39斤
+
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20250502-1.jpg" width = "400" height = "700" alt="" align=center />
+
+
+
 
 
 
