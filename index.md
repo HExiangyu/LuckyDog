@@ -179,6 +179,22 @@
 
 
 
+## 2023.08.07
+> lucky和要好朋狗鸡屁分开，鸡屁要去上海了
+
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20230807-1.jpg" width = "400" height = "700" alt="" align=center />
+
+
+
+## 2024.09.15
+> lucky第一次坐我们自己买的车去游玩
+
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20240915-1.jpg" width = "400" height = "700" alt="" align=center />
+
+
+
+
+
 
 
 
