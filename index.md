@@ -200,6 +200,10 @@
 
 
 
+## 2025.10.18
+> lucky在七夕搬去新家，日常遛狗，体重43斤
+
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20251018-1.jpg" width = "400" height = "700" alt="" align=center />
 
 
 
