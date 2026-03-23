@@ -187,7 +187,7 @@
 
 
 ## 2024.09.15
-> lucky第一次坐我们自己买的车去游玩
+> lucky第一次坐我们自己买的车去游玩，体重36斤
 
 <img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20240915-1.jpg" width = "400" height = "700" alt="" align=center />
 
