@@ -201,12 +201,16 @@
 
 
 ## 2025.10.18
-> lucky在七夕搬去新家，日常遛狗，体重43斤
+> 在七夕那天，我们搬新家了。在新家周围日常遛狗，体重43斤
 
 <img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20251018-1.jpg" width = "400" height = "700" alt="" align=center />
 
 
 
+## 2026.01.02
+> 带着lucky去汕头自驾游，体重45斤
+
+<img src="https://raw.githubusercontent.com/HExiangyu/LuckyDog/main/image/20260102-1.jpg" width = "400" height = "700" alt="" align=center />
 
 
 
